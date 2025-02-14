@@ -4,6 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeatrizMoreira15&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMoreira15&layout=compact&theme=radical)  
 -->
+
 ---
 
 ## Programming Languages  
@@ -27,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
+<!--  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
