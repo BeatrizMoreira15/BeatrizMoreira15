@@ -1,4 +1,4 @@
-# Hi, I'm Beatriz 
+<!-- # Hi, I'm Beatriz 
 
 MSc student in Data Science and Engineering at FEUP
 
@@ -21,6 +21,6 @@ I am a data science student with an interest in building practical projects usin
 * **Project Name** – Short description of what it does
 * **Project Name** – Short description of what it does
 
-## Contact
+## Contact-->
 
 <!-- LinkedIn: add your link here later -->
