@@ -1,13 +1,14 @@
-# Hi, I'm Beatriz 👋
+# Hi, I'm Beatriz 
 
-🎓 MSc student in Data Science and Engineering at FEUP
-🧠 Background in Artificial Intelligence and Data Science (FCUP)
+MSc student in Data Science and Engineering at FEUP
 
-## 💻 About Me
+Background in Artificial Intelligence and Data Science (FCUP)
+
+## About Me
 
 I am a data science student with an interest in building practical projects using Python, data analysis, and machine learning.
 
-## 🛠️ Skills
+## Skills
 
 * Python (data analysis, scripting)
 * SQL (basic queries)
@@ -20,6 +21,6 @@ I am a data science student with an interest in building practical projects usin
 * **Project Name** – Short description of what it does
 * **Project Name** – Short description of what it does
 
-## 📫 Contact
+## Contact
 
 <!-- LinkedIn: add your link here later -->
