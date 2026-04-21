@@ -42,6 +42,12 @@
 
 </p>
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 <!--## 📂 Featured Projects
 
 - **Project Name** – Short description of what it does  
