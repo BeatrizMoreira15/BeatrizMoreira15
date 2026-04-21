@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60"/>
 
   <!-- Engineering Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autodesk.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autocad.svg" height="60"/>
   <img src="https://cyberbotics.com/assets/images/webots.png" height="60"/>
   
   <!-- Cloud -->
