@@ -35,7 +35,7 @@
   <img src="https://cyberbotics.com/assets/images/webots.png" height="60"/>
   
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" height="60"/>
 
   <!-- Tools -->
