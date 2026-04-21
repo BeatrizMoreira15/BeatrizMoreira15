@@ -3,6 +3,8 @@
 - MSc student in Data Science and Engineering at FEUP  
 - Background in Artificial Intelligence and Data Science  
 
+![](https://komarev.com/ghpvc/?username=BeatrizMoreira15)
+
 ---
 
 ## Languages & Tools
@@ -49,35 +51,34 @@
 
 </p>
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMoreira15&layout=compact)
-![](https://komarev.com/ghpvc/?username=BeatrizMoreira15)
-
-<!--## 📂 Featured Projects
-
-- **Project Name** – Short description of what it does  
-- **Project Name** – Short description of what it does  
-- **Project Name** – Short description of what it does  
--->
 ---
 
 ## 📊 All Projects (Master’s Degree)
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| ML Classification Benchmark Study | Experimental evaluation of classification algorithms on OpenML datasets focusing on robustness to data quality issues such as noise, imbalance and overlap | Python, Scikit-learn, Jupyter |
-| ElectroGrid Data Platform | Relational database system for electricity distribution, including data modelling, ETL pipeline and query system | Python, PostgreSQL |
-| Constraint Optimization Systems (MIP vs CP) | Comparative study of Mixed Integer Programming and Constraint Programming models applied to combinatorial optimization problems | Python, OR Tools |
-| Decision Support Optimization System | Optimization-based decision support models for operational planning and resource allocation | Python |
-| Metaheuristic Optimization Framework | Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, tabu search) for optimization problems | Python |
-| Energy Consumption in Portugal | Statistical analysis and data visualization of electricity consumption across Portuguese regions | R, ggplot2 |
+| [ML Classification Benchmark Study](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Experimental evaluation of classification algorithms on OpenML datasets focusing on robustness to data quality issues such as noise, imbalance and overlap | Python, Scikit-learn, Jupyter |
+| [ElectroGrid Data Platform](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Relational database system for electricity distribution, including data modelling, ETL pipeline and query system | Python, PostgreSQL |
+| [Constraint Optimization Systems (MIP vs CP)](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Comparative study of Mixed Integer Programming and Constraint Programming models applied to combinatorial optimization problems | Python, OR Tools |
+| [Decision Support Optimization System](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Optimization-based decision support models for operational planning and resource allocation | Python |
+| [Metaheuristic Optimization Framework](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, tabu search) for optimization problems | Python |
+| [Energy Consumption in Portugal](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Statistical analysis and data visualization of electricity consumption across Portuguese regions | R, ggplot2 |
+
+---
 
 <!--
+## 📌 UC Mapping (hidden comments - NOT visible on GitHub page)
+
+ML Classification Benchmark Study → IACEC (Machine Learning / Classification)
+ElectroGrid Data Platform → FCED (Database Systems)
+Constraint Optimization Systems → SAAD (MIP vs CP)
+Decision Support Optimization System → ADSS (Optimization / Decision Systems)
+Metaheuristic Optimization Framework → Optimization / Metaheuristics
+Energy Consumption in Portugal → VPDA (Data Visualization / Statistics)
+-->
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: add your link here later
--->
-
-
-
-
