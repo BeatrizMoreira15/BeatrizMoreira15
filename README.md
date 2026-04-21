@@ -1,7 +1,7 @@
 # Hi, I'm Beatriz Moreira
 
-MSc student in Data Science and Engineering at FEUP  
-Background in Artificial Intelligence and Data Science  
+- MSc student in Data Science and Engineering at FEUP  
+- Background in Artificial Intelligence and Data Science  
 
 ---
 
