@@ -36,6 +36,7 @@
   
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" height="60"/>
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60"/>
