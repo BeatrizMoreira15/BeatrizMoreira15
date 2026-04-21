@@ -51,6 +51,7 @@
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMoreira15&layout=compact)
+![](https://komarev.com/ghpvc/?username=BeatrizMoreira15)
 
 <!--## 📂 Featured Projects
 
@@ -60,8 +61,23 @@
 -->
 ---
 
+## 📊 All Projects (Master’s Degree)
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| ML Classification Benchmark Study | Experimental evaluation of classification algorithms on OpenML datasets focusing on robustness to data quality issues such as noise, imbalance and overlap | Python, Scikit-learn, Jupyter |
+| ElectroGrid Data Platform | Relational database system for electricity distribution, including data modelling, ETL pipeline and query system | Python, PostgreSQL |
+| Constraint Optimization Systems (MIP vs CP) | Comparative study of Mixed Integer Programming and Constraint Programming models applied to combinatorial optimization problems | Python, OR Tools |
+| Decision Support Optimization System | Optimization-based decision support models for operational planning and resource allocation | Python |
+| Metaheuristic Optimization Framework | Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, tabu search) for optimization problems | Python |
+| Energy Consumption in Portugal | Statistical analysis and data visualization of electricity consumption across Portuguese regions | R, ggplot2 |
+
 <!--
 ## 📫 Contact
 
 - LinkedIn: add your link here later
 -->
+
+
+
+
