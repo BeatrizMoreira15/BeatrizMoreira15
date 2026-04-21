@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizMoreira15&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMoreira15&layout=compact)
 
 <!--## 📂 Featured Projects
 
