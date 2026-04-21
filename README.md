@@ -50,6 +50,8 @@ Background in Artificial Intelligence and Data Science
 -->
 ---
 
+<!--
 ## 📫 Contact
 
 - LinkedIn: add your link here later
+-->
