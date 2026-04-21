@@ -5,7 +5,7 @@ Background in Artificial Intelligence and Data Science
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 <p align="left">
 
@@ -34,16 +34,16 @@ Background in Artificial Intelligence and Data Science
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 
   <!-- BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/icons/svg/Power-BI.svg" height="40"/>  
 
 </p>
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 
 - **Project Name** – Short description of what it does  
 - **Project Name** – Short description of what it does  
 - **Project Name** – Short description of what it does  
-
+-->
 ---
 
 ## 📫 Contact
