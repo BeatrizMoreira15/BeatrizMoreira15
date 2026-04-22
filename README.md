@@ -3,7 +3,6 @@
 - MSc student in Data Science and Engineering at FEUP  
 - Background in Artificial Intelligence and Data Science  
 
-![](https://komarev.com/ghpvc/?username=BeatrizMoreira15)
 
 ---
 
