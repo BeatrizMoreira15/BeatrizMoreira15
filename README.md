@@ -52,7 +52,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 All Projects (Master’s Degree)
 
 | Project | Description | Stack |
@@ -63,7 +63,7 @@
 | [Decision Support Optimization System](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Optimization-based decision support models for operational planning and resource allocation | Python |
 | [Metaheuristic Optimization Framework](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, tabu search) for optimization problems | Python |
 | [Energy Consumption in Portugal](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Statistical analysis and data visualization of electricity consumption across Portuguese regions | R, ggplot2 |
-
+-->
 ---
 
 <!--
