@@ -78,7 +78,8 @@ Energy Consumption in Portugal → VPDA (Data Visualization / Statistics)
 -->
 
 ---
-
+<!--
 ## 📫 Contact
 
 - LinkedIn: add your link here later
+-->
