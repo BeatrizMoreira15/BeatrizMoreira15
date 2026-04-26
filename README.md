@@ -66,12 +66,12 @@
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [AI_DS_LAB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS_LAB/Lung_Cancer_Classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and ML. |
-| [AI_DS_LAB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS_LAB/SP500) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML. |
-| [CDLE](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/CDLE) | Big Data Processing Benchmark Study | Benchmark study of scalable data processing libraries (PySpark, Dask, Modin, RAPIDS, Joblib) using NYC Taxi dataset, evaluating CPU and GPU performance across different dataset sizes. |
-| [IRI](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Autonomous Driving (Webots) | Computer vision lane following and LiDAR obstacle avoidance using OpenCV and PID control in a simulated urban night environment.|
-| [ISIA](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Custom LunarLander with PPO | PPO agent in a custom LunarLander environment. |
+| [AI_DS_LAB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS_LAB/Lung_Cancer_Classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and machine learning. |
+| [AI_DS_LAB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS_LAB/SP500) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using machine learning models. |
+| [CDLE](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/CDLE) | Big Data Processing Benchmark Study | Performance benchmarking of PySpark, Dask, Modin, RAPIDS, and Joblib using NYC Taxi data on CPU and GPU setups. |
+| [IRI](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Autonomous Driving (Webots) | Computer vision lane detection and LiDAR-based obstacle avoidance using OpenCV and PID control in simulation.|
+| [ISIA](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Custom LunarLander with PPO | Reinforcement learning agent using PPO in a custom LunarLander environment. |
 | [DB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/DB) | Art Gallery Database System | UML-based relational database with SQL and Flask web application for exploring paintings, artists, museums, and exhibitions. |
-| [AI_DS](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
+| [AI_DS](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS) | Alquerque Game AI | Python Implementation of Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
