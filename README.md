@@ -51,22 +51,23 @@
 </p>
 
 
-## 📚 Academic Projects
+## Academic Projects
 
-### 🎓 Master's Projects
-
-| Course | Project | Description |
-|--------|---------|-------------|
-| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
-| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
-| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
-
-### 🎓 Bachelor's Projects
+### Master's Projects
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [AI&DS_LAB](https://github.com/BeatrizMoreira15/AI&DS_LAB/S&P500) | S&P500 Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML models. |
-| [AI&DS_LAB](https://github.com/BeatrizMoreira15/AI&DS_LAB/Lung_Nodule) | Lung Nodule Classification | CT-based lung nodule malignancy classification using radiomics and ML. |
-| [AI&DS](https://github.com/BeatrizMoreira15/AI&DS) | Alquerque Game AI | Python implementation of Alquerque game with Minimax and Alpha-Beta pruning. |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+
+### Bachelor's Projects
+
+| Course | Project | Description |
+|--------|---------|-------------|
+| [AI&DS](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/alquerque-game-ai) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
+| [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/lung-nodule-classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and ML. |
+| [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/stock-prediction-portfolio-optimization) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML. |
+| [ISIA](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/custom-lunarlander-ppo) | Custom LunarLander with PPO | PPO agent in a custom LunarLander environment. |
 
 ---
