@@ -64,10 +64,10 @@
 | Course | Project | Description |
 |--------|---------|-------------|
 | [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/Databases) | Electrogrid Database System | Relational database project with UML design, normalization, PostgreSQL implementation, Python ETL pipeline, and CLI for data management and querying. |
-| [FCED](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/FCED/Statistics) | Electrical Energy Consumption Analysis | Statistical analysis of electricity consumption in Portugal using descriptive/inferential statistics, visualization, and hypothesis testing on real-world datasets. |
-| [FCED](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/FCED/SignalProcessing) | HAR70+ Physical Activity Classification | Time-series classification using accelerometer data with sliding window features, spectral similarity metrics, and RF vs SVM comparison under subject-independent validation. |
-| [IACEC](https://github.com/BeatrizMoreira15/repository-name) | XGBoost Robustness to Noise & Outliers | Study of XGBoost robustness under noisy data, comparing baseline training with gradient clipping across OpenML and synthetic datasets. |
-| [SAAD](https://github.com/BeatrizMoreira15/repository-nam) | Job Shop Scheduling (MIP vs CP) | Comparison of MIP and CP for scheduling problems, evaluating makespan, scalability, and solver performance on benchmark instances. |
+| [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/Statistics) | Electrical Energy Consumption Analysis | Statistical analysis of electricity consumption in Portugal using descriptive/inferential statistics, visualization, and hypothesis testing on real-world datasets. |
+| [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/SignalProcessing) | HAR70+ Physical Activity Classification | Time-series classification using accelerometer data with sliding window features, spectral similarity metrics, and RF vs SVM comparison under subject-independent validation. |
+| [IACEC](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/IACEC) | XGBoost Robustness to Noise & Outliers | Study of XGBoost robustness under noisy data, comparing baseline training with gradient clipping across OpenML and synthetic datasets. |
+| [SAAD](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/SAAD) | Job Shop Scheduling (MIP vs CP) | Comparison of MIP and CP for scheduling problems, evaluating makespan, scalability, and solver performance on benchmark instances. |
 
 
 ### Bachelor's Projects
