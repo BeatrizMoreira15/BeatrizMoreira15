@@ -83,3 +83,17 @@
 | [AI_DS](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS) | Alquerque Game AI | Python Implementation of Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
+
+
+## Abbreviations
+
+- **FCED** – Fundamentals of Data Science and Engineering
+- **IACEC** – Introduction to Machine Learning and Data Mining
+- **SAAD** – 	Analytical Decision Support Systems  
+- **AI_DS_LAB** – Laboratory IA and CD
+- **CDLE** – Large Scale Data Science 
+- **IRI** – 	Introduction to Intelligent Robotics  
+- **ISIA** – 	Introduction to Intelligent Autonomous Systems  
+- **DB** – Databases
+- **AI_DS_LAB** – Artificial Intelligence and Data Science   
+
