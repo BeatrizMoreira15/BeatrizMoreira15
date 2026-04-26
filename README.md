@@ -65,7 +65,7 @@
 |--------|---------|-------------|
 | [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/Databases) | Electrogrid Database System | Relational database project with UML design, normalization, PostgreSQL implementation, Python ETL pipeline, and CLI for data management and querying. |
 | [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/Statistics) | Electrical Energy Consumption Analysis | Statistical analysis of electricity consumption in Portugal using descriptive/inferential statistics, visualization, and hypothesis testing on real-world datasets. |
-| [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/SignalProcessing) | HAR70+ Physical Activity Classification | Time-series classification using accelerometer data with sliding window features, spectral similarity metrics, and RF vs SVM comparison under subject-independent validation. |
+| [FCED](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/FCED/Signal_Processing) | HAR70+ Physical Activity Classification | Time-series classification using accelerometer data with sliding window features, spectral similarity metrics, and RF vs SVM comparison under subject-independent validation. |
 | [IACEC](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/IACEC) | XGBoost Robustness to Noise & Outliers | Study of XGBoost robustness under noisy data, comparing baseline training with gradient clipping across OpenML and synthetic datasets. |
 | [SAAD](https://github.com/BeatrizMoreira15/Master_Projects/tree/main/SAAD) | Job Shop Scheduling (MIP vs CP) | Comparison of MIP and CP for scheduling problems, evaluating makespan, scalability, and solver performance on benchmark instances. |
 
@@ -79,7 +79,7 @@
 | [CDLE](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/CDLE) | Big Data Processing Benchmark Study | Performance benchmarking of PySpark, Dask, Modin, RAPIDS, and Joblib using NYC Taxi data on CPU and GPU setups. |
 | [IRI](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Autonomous Driving (Webots) | Computer vision lane detection and LiDAR-based obstacle avoidance using OpenCV and PID control in simulation.|
 | [ISIA](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/ISIA) | Custom LunarLander with PPO | Reinforcement learning agent using PPO in a custom LunarLander environment. |
-| [DB](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/DB) | Art Gallery Database System | UML-based relational database with SQL and Flask web application for exploring paintings, artists, museums, and exhibitions. |
+| [BD](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/BD) | Art Gallery Database System | UML-based relational database with SQL and Flask web application for exploring paintings, artists, museums, and exhibitions. |
 | [AI_DS](https://github.com/BeatrizMoreira15/Bachelor_Projects/tree/main/AI_DS) | Alquerque Game AI | Python Implementation of Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
