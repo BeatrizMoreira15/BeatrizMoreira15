@@ -52,7 +52,7 @@
 
 
 ## Academic Projects
-
+<!--
 ### Master's Projects
 
 | Course | Project | Description |
@@ -60,14 +60,15 @@
 | [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
 | [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
 | [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+-->
 
 ### Bachelor's Projects
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/lung-nodule-classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and ML. |
-| [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/stock-prediction-portfolio-optimization) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML. |
-| [ISIA](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/custom-lunarlander-ppo) | Custom LunarLander with PPO | PPO agent in a custom LunarLander environment. |
-| [AI&DS](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/alquerque-game-ai) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
+| [AI_DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/AI_DS_LAB/Lung_Cancer_Classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and ML. |
+| [AI_DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/AI_DS_LAB/SP500) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML. |
+| [ISIA](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/ISIA) | Custom LunarLander with PPO | PPO agent in a custom LunarLander environment. |
+| [AI_DS](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/AI_DS) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
