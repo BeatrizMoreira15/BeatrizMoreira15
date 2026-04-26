@@ -50,35 +50,23 @@
 
 </p>
 
----
-<!--
-## 📊 All Projects (Master’s Degree)
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [ML Classification Benchmark Study](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Experimental evaluation of classification algorithms on OpenML datasets focusing on robustness to data quality issues such as noise, imbalance and overlap | Python, Scikit-learn, Jupyter |
-| [ElectroGrid Data Platform](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Relational database system for electricity distribution, including data modelling, ETL pipeline and query system | Python, PostgreSQL |
-| [Constraint Optimization Systems (MIP vs CP)](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Comparative study of Mixed Integer Programming and Constraint Programming models applied to combinatorial optimization problems | Python, OR Tools |
-| [Decision Support Optimization System](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Optimization-based decision support models for operational planning and resource allocation | Python |
-| [Metaheuristic Optimization Framework](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, tabu search) for optimization problems | Python |
-| [Energy Consumption in Portugal](https://github.com/BeatrizMoreira15/YOUR_REPO_NAME) | Statistical analysis and data visualization of electricity consumption across Portuguese regions | R, ggplot2 |
--->
----
+## 📚 Academic Projects
 
-<!--
-## 📌 UC Mapping (hidden comments - NOT visible on GitHub page)
+### 🎓 Master's Projects
 
-ML Classification Benchmark Study → IACEC (Machine Learning / Classification)
-ElectroGrid Data Platform → FCED (Database Systems)
-Constraint Optimization Systems → SAAD (MIP vs CP)
-Decision Support Optimization System → ADSS (Optimization / Decision Systems)
-Metaheuristic Optimization Framework → Optimization / Metaheuristics
-Energy Consumption in Portugal → VPDA (Data Visualization / Statistics)
--->
+| Course | Project | Description |
+|--------|---------|-------------|
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+
+### 🎓 Bachelor's Projects
+
+| Course | Project | Description |
+|--------|---------|-------------|
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
+| [Artificial Intelligence and Data Science](https://github.com/BeatrizMoreira15/Artificial Intelligence and Data Science) | Alquerque Game AI | Python implementation of the Alquerque board game featuring Minimax with Alpha-Beta pruning, multiple difficulty levels, and support for Human vs Computer and Computer vs Computer gameplay. |
 
 ---
-<!--
-## 📫 Contact
-
-- LinkedIn: add your link here later
--->
