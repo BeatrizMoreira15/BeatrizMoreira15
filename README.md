@@ -65,8 +65,8 @@
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
-| [Course Name](https://github.com/BeatrizMoreira15/repository-name) | Project Title | Short description of the project |
-| [Artificial Intelligence and Data Science](https://github.com/BeatrizMoreira15/Artificial Intelligence and Data Science) | Alquerque Game AI | Python implementation of the Alquerque board game featuring Minimax with Alpha-Beta pruning, multiple difficulty levels, and support for Human vs Computer and Computer vs Computer gameplay. |
+| [AI&DS_LAB](https://github.com/BeatrizMoreira15/AI&DS_LAB/S&P500) | S&P500 Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML models. |
+| [AI&DS_LAB](https://github.com/BeatrizMoreira15/AI&DS_LAB/Lung_Nodule) | Lung Nodule Classification | CT-based lung nodule malignancy classification using radiomics and ML. |
+| [AI&DS](https://github.com/BeatrizMoreira15/AI&DS) | Alquerque Game AI | Python implementation of Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
