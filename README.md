@@ -65,9 +65,9 @@
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [AI&DS](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/alquerque-game-ai) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
 | [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/lung-nodule-classification) | Lung Nodule Classification | CT-based malignancy classification using radiomics and ML. |
 | [AI&DS_LAB](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/stock-prediction-portfolio-optimization) | Stock Prediction & Portfolio Optimization | Stock forecasting and portfolio optimization using ML. |
 | [ISIA](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/custom-lunarlander-ppo) | Custom LunarLander with PPO | PPO agent in a custom LunarLander environment. |
+| [AI&DS](https://github.com/BeatrizMoreira15/bachelor-projects/tree/main/alquerque-game-ai) | Alquerque Game AI | Alquerque game with Minimax and Alpha-Beta pruning. |
 
 ---
