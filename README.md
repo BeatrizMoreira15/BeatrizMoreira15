@@ -2,14 +2,6 @@
 
 - MSc student in Data Science and Engineering at FEUP  
 - Background in Artificial Intelligence and Data Science  
-
-
-## Featured Work
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizMoreira15&repo=Master_Projects)](https://github.com/BeatrizMoreira15/SAAD)
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=BeatrizMoreira15&repo=Bachelor_Projects)](https://github.com/BeatrizMoreira15/FCED)
-
 ---
 
 
@@ -57,7 +49,7 @@
 
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMoreira15&layout=compact)
 
 ---
 
